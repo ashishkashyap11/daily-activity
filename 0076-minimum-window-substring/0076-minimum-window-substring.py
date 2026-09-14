@@ -3,45 +3,44 @@ class Solution(object):
         if not s or not t or len(s) < len(t):
             return ""
 
-        tmb = [0] * 256
+        need = [0] * 256
         for char in t:
-            tmb[ord(char)] += 1
+            need[ord(char)] += 1
 
         required = 0
         for i in range(256):
-            if tmb[i] > 0:
+            if need[i] > 0:
                 required += 1
 
-        smb = [0] * 256
-        low = 0
-        matched = 0
+        have = [0] * 256
+        matched = 0   
 
-        min_len = float('inf')
-        min_start = -1
+        low = 0
+        res = float('inf')
+        start = -1
 
         for high in range(len(s)):
-            right_char = s[high]
-            smb[ord(right_char)] += 1
+            right_char = ord(s[high])
+            have[right_char] += 1
 
-            if tmb[ord(right_char)] > 0 and smb[ord(right_char)] == tmb[ord(right_char)]:
+            if need[right_char] > 0 and have[right_char] == need[right_char]:
                 matched += 1
 
             while matched == required:
+                length = high - low + 1
+                if res > length:
+                    res = length
+                    start = low
 
-                current_len = high - low + 1
-                if current_len < min_len:
-                    min_len = current_len
-                    min_start = low
+                left_char = ord(s[low])
+                have[left_char] -= 1
 
-                left_char = s[low]
-                smb[ord(left_char)] -= 1
-
-                if tmb[ord(left_char)] > 0 and smb[ord(left_char)] < tmb[ord(left_char)]:
+                if need[left_char] > 0 and have[left_char] < need[left_char]:
                     matched -= 1
 
                 low += 1
 
-        if min_len == float('inf'):
+        if res == float('inf'):
             return ""
-        else:
-            return s[min_start : min_start + min_len]
+
+        return s[start:start + res]
