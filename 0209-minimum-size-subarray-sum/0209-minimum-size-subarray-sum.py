@@ -5,7 +5,7 @@ class Solution(object):
         result = float('inf')
         sm=0
 
-        while high<len(nums):
+        for high in range(len(nums)):
             sm=sm+nums[high]
 
             while sm>=target:
@@ -13,7 +13,7 @@ class Solution(object):
                 result=min(result,length)
                 sm=sm-nums[low]
                 low+=1
-            high+=1
+        
         if result == float('inf'):
             return 0
 
