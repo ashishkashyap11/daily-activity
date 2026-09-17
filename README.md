@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ashishkashyap11/daily-activity/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkashyap11/daily-activity/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashishkashyap11/daily-activity/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ashishkashyap11/daily-activity/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ashishkashyap11/daily-activity/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
@@ -90,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashishkashyap11/daily-activity/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
