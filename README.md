@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishkashyap11/daily-activity/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ashishkashyap11/daily-activity/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishkashyap11/daily-activity/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishkashyap11/daily-activity/tree/master/0904-fruit-into-baskets) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -114,8 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
