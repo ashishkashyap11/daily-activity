@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishkashyap11/daily-activity/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ashishkashyap11/daily-activity/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishkashyap11/daily-activity/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishkashyap11/daily-activity/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
