@@ -1,14 +1,20 @@
 class Solution(object):
     def findDuplicate(self, nums):
-        nums.sort()
-        
         slow=0
-        fast=1
-        
-        while fast!=len(nums):
-            if nums[slow]==nums[fast]:
-                return nums[slow]
-            slow+=1
-            fast+=1
+        fast=0
+        while True:
+            slow=nums[slow]
+            fast=nums[fast]
+            fast=nums[fast]
+
+            if slow==fast:
+                slow=0
+                while fast!=slow:
+                    slow=nums[slow]
+                    fast=nums[fast]
+                return slow
+        return 0
+                    
+
 
         
