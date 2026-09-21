@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ashishkashyap11/daily-activity/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishkashyap11/daily-activity/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishkashyap11/daily-activity/tree/master/0904-fruit-into-baskets) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ashishkashyap11/daily-activity/tree/master/0876-middle-of-the-linked-list) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ashishkashyap11/daily-activity/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ashishkashyap11/daily-activity/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ashishkashyap11/daily-activity/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ashishkashyap11/daily-activity/tree/master/0412-fizz-buzz) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashishkashyap11/daily-activity/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
