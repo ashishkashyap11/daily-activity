@@ -4,7 +4,7 @@ class Solution:
         right=0
         n=len(nums)
         sm=sum(nums)
-        if left==sm-nums[left]:
+        if left==sm-nums[0]:
             return 0
         else:
             for i in range(1,n):
