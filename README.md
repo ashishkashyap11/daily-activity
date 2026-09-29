@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ashishkashyap11/daily-activity/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ashishkashyap11/daily-activity/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ashishkashyap11/daily-activity/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkashyap11/daily-activity/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ashishkashyap11/daily-activity/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ashishkashyap11/daily-activity/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishkashyap11/daily-activity/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
