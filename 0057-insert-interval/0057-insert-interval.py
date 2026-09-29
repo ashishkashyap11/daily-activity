@@ -1,7 +1,7 @@
 class Solution:
     def insert(self, intervals: list[list[int]], newInterval: list[int]) -> list[list[int]]:
         intervals.append(newInterval)
-        intervals.sort(key=lambda x: x[0])
+        intervals.sort()
         start1=intervals[0][0]
         end1=intervals[0][1]
         result=[]
