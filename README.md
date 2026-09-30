@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ashishkashyap11/daily-activity/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/ashishkashyap11/daily-activity/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ashishkashyap11/daily-activity/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkashyap11/daily-activity/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ashishkashyap11/daily-activity/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/ashishkashyap11/daily-activity/tree/master/0986-interval-list-intersections) |
 ## Math
 |  |
 | ------- |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ashishkashyap11/daily-activity/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ashishkashyap11/daily-activity/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
