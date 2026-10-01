@@ -5,14 +5,14 @@ class Solution:
 
         for c in s:
 
-            if len(stack)!=0 and stack[-1] == c:
+            if stack and stack[-1] == c:
                 stack.pop()
             else:
                 stack.append(c)
 
         result = ""
 
-        while len(stack) != 0:
+        while stack:
             t = stack[-1]      # TOP
             stack.pop()        # POP
             result += t
