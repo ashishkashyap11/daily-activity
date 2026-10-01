@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ashishkashyap11/daily-activity/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishkashyap11/daily-activity/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ashishkashyap11/daily-activity/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
