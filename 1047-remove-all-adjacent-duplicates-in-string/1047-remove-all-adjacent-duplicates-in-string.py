@@ -10,11 +10,11 @@ class Solution:
             else:
                 stack.append(c)
 
-        result = ""
+        result = "".join(stack)
 
-        while stack:
-            t = stack[-1]      # TOP
-            stack.pop()        # POP
-            result += t
+        # while stack:
+        #     t = stack[-1]      # TOP
+        #     stack.pop()        # POP
+        #     result += t
 
-        return result[::-1]
+        return result
