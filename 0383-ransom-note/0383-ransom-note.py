@@ -1,5 +1,9 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        if len(ransomNote)>len(magazine):
+            return False
+        if len(set(ransomNote))>len(set(magazine)):
+            return False
         n=len(ransomNote)
         m=len(magazine)
         f={}
