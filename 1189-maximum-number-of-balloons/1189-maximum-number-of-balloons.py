@@ -2,7 +2,7 @@ class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
         f={}
         fq={}
-        ans=[]
+        ans=float('inf')
         f['b']=1
         f['a']=1
         f['l']=2
@@ -18,10 +18,10 @@ class Solution:
         for k in f:
             if k in fq:
                 div = fq[k] // f[k]
-                ans.append(div)
+                ans=min(ans,div)
             else:
                 return 0
 
-        return min(ans)                
+        return ans             
 
         
