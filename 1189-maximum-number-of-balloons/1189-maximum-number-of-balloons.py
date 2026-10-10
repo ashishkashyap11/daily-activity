@@ -1,13 +1,8 @@
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
-        f={}
+        f = {"b":1,"a":1,"l":2,"o":2,"n":1}
         fq={}
         ans=float('inf')
-        f['b']=1
-        f['a']=1
-        f['l']=2
-        f['o']=2
-        f['n']=1
 
         for j in range(len(text)):
             if text[j] in fq:
@@ -21,7 +16,6 @@ class Solution:
                 ans=min(ans,div)
             else:
                 return 0
-
         return ans             
 
         
