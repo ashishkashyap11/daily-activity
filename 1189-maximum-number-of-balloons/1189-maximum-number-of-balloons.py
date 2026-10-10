@@ -3,12 +3,12 @@ class Solution:
         f={}
         fq={}
         ans=[]
-        s="balloon"
-        for i in range(len(s)):
-            if s[i] in f:
-                f[s[i]]+=1
-            else:
-                f[s[i]]=1
+        f['b']=1
+        f['a']=1
+        f['l']=2
+        f['o']=2
+        f['n']=1
+
         for j in range(len(text)):
             if text[j] in fq:
                 fq[text[j]]+=1
