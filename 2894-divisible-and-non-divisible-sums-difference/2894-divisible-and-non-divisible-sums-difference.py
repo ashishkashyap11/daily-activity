@@ -7,7 +7,7 @@ class Solution:
                 ans1=i+ans1
             else:
                 ans2=ans2+i
-    
-        return ans1-ans2
+        res=ans1-ans2
+        return res
 
         
