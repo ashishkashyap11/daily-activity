@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ashishkashyap11/daily-activity/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ashishkashyap11/daily-activity/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ashishkashyap11/daily-activity/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ashishkashyap11/daily-activity/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ashishkashyap11/daily-activity/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0509-fibonacci-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashishkashyap11/daily-activity/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashishkashyap11/daily-activity/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashishkashyap11/daily-activity/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
