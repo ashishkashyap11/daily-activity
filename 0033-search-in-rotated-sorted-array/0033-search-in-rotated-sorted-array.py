@@ -21,7 +21,7 @@ class Solution:
                 if nums[mid]>target:
                     high=mid-1
                 if nums[mid]<target:
-                    if nums[n-1] >= target:
+                    if target <= nums[n-1]:
                         low=mid+1
                     else:
                         high=mid-1        
