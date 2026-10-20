@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkashyap11/daily-activity/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishkashyap11/daily-activity/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2974-minimum-number-game](https://github.com/ashishkashyap11/daily-activity/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ashishkashyap11/daily-activity/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashishkashyap11/daily-activity/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/ashishkashyap11/daily-activity/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ashishkashyap11/daily-activity/tree/master/0056-merge-intervals) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/ashishkashyap11/daily-activity/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
+| [2974-minimum-number-game](https://github.com/ashishkashyap11/daily-activity/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
