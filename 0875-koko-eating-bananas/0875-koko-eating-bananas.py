@@ -1,22 +1,24 @@
-class Solution: 
-    def helper(self, piles: list[int], speed: int) -> int:
-        h = 0
-        for i in range(0, len(piles)):
-            h += piles[i] // speed
-            if piles[i] % speed != 0: 
-                h += 1
-        return h 
+class Solution:
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
 
-    def minEatingSpeed(self, piles: list[int], h: int) -> int:
         low = 1
         high = max(piles)
-        res = -1
+
         while low <= high:
             mid = (low + high) // 2
-            hour = self.helper(piles, mid)
-            if hour > h:
-                low = mid + 1
-            else:
-                res = mid
+
+            hours = 0
+
+            for pile in piles:
+                temp = pile // mid
+                hours = hours + temp
+
+                if pile % mid != 0:
+                    hours = hours + 1
+
+            if hours <= h:
                 high = mid - 1
-        return res
+            else:
+                low = mid + 1
+
+        return low
