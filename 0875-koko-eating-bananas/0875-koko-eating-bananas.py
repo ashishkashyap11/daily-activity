@@ -9,11 +9,11 @@ class Solution:
 
             hours = 0
 
-            for pile in piles:
-                temp = pile // mid
+            for i in range(0,len(piles)):
+                temp = piles[i] // mid
                 hours = hours + temp
 
-                if pile % mid != 0:
+                if piles[i] % mid != 0:
                     hours = hours + 1
 
             if hours <= h:
