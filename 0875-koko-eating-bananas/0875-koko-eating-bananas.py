@@ -17,8 +17,9 @@ class Solution:
                     hours = hours + 1
 
             if hours <= h:
+                ans=mid
                 high = mid - 1
             else:
                 low = mid + 1
 
-        return low
+        return ans
