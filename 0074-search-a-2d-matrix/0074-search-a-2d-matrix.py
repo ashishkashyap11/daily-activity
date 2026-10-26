@@ -9,12 +9,14 @@ class Solution:
             guess=(low+high)//2
             row=guess//m
             col=guess%m
+
             if matrix[row][col]==target:
                 return True
             if matrix[row][col]<target:
                 low=guess+1
             else :
                 high=guess-1
+                
         return False
 
         
