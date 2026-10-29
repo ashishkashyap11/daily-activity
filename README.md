@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ashishkashyap11/daily-activity/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishkashyap11/daily-activity/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0525-contiguous-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ashishkashyap11/daily-activity/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/ashishkashyap11/daily-activity/tree/master/2974-minimum-number-game) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishkashyap11/daily-activity/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ashishkashyap11/daily-activity/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/ashishkashyap11/daily-activity/tree/master/2974-minimum-number-game) |
 ## Merge Sort
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ashishkashyap11/daily-activity/tree/master/0074-search-a-2d-matrix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
