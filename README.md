@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ashishkashyap11/daily-activity/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ashishkashyap11/daily-activity/tree/master/0287-find-the-duplicate-number) |
+| [0502-ipo](https://github.com/ashishkashyap11/daily-activity/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ashishkashyap11/daily-activity/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/ashishkashyap11/daily-activity/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/ashishkashyap11/daily-activity/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/ashishkashyap11/daily-activity/tree/master/2974-minimum-number-game) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ashishkashyap11/daily-activity/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/ashishkashyap11/daily-activity/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0767-reorganize-string) |
 ## Ternary Search
 |  |
