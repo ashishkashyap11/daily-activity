@@ -3,7 +3,12 @@ import heapq
 class Solution:
     def findMaximizedCapital(self, k: int, w: int, profits: list[int], capital: list[int]) -> int:
         n = len(profits)
-        projects = sorted(zip(capital, profits))
+        projects=[]
+        for i in range(len(capital)):
+            pair = [capital[i], profits[i]]
+            projects.append(pair)
+
+        projects.sort()
 
         i = 0
         max_heap = []
