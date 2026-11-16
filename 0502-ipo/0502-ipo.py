@@ -2,27 +2,28 @@ import heapq
 
 class Solution:
     def findMaximizedCapital(self, k: int, w: int, profits: list[int], capital: list[int]) -> int:
-        minheap = []
+        projects = []
 
         for i in range(len(capital)):
             pair = [capital[i], profits[i]]
-            heapq.heappush(minheap, pair)
+            projects.append(pair)
 
-        res = w
-        count = 0
+        projects.sort()
+
         maxheap = []
+        idx = 0
+        n = len(projects)
 
-        while count < k:
+        for i in range(k):
 
-            while minheap and minheap[0][0] <= res:
-                pair = heapq.heappop(minheap)
-                heapq.heappush(maxheap, -pair[1])
+            while idx < n and projects[idx][0] <= w:
+                heapq.heappush(maxheap, -projects[idx][1])
+                idx += 1
 
             if not maxheap:
                 break
 
             topp = -heapq.heappop(maxheap)
-            res += topp
-            count += 1
+            w += topp
 
-        return res
+        return w
