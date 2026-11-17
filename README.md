@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ashishkashyap11/daily-activity/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ashishkashyap11/daily-activity/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/ashishkashyap11/daily-activity/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashishkashyap11/daily-activity/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ashishkashyap11/daily-activity/tree/master/0739-daily-temperatures) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ashishkashyap11/daily-activity/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishkashyap11/daily-activity/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashishkashyap11/daily-activity/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ashishkashyap11/daily-activity/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/ashishkashyap11/daily-activity/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/ashishkashyap11/daily-activity/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkashyap11/daily-activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/ashishkashyap11/daily-activity/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/ashishkashyap11/daily-activity/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/ashishkashyap11/daily-activity/tree/master/1189-maximum-number-of-balloons) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/ashishkashyap11/daily-activity/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/ashishkashyap11/daily-activity/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ashishkashyap11/daily-activity/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/ashishkashyap11/daily-activity/tree/master/2974-minimum-number-game) |
@@ -282,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/ashishkashyap11/daily-activity/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/ashishkashyap11/daily-activity/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/ashishkashyap11/daily-activity/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ashishkashyap11/daily-activity/tree/master/0767-reorganize-string) |
 ## Ternary Search
 |  |
